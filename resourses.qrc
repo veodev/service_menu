@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/umuOff.png</file>
+        <file>resources/umuOn.png</file>
+        <file>resources/connectedStatus.png</file>
+        <file>resources/connectingStatus.png</file>
+        <file>resources/disconnectStatus.png</file>
+        <file>translations/russian.qm</file>
+        <file>resources/boltJointLabel.png</file>
+        <file>resources/coordinateLabel.png</file>
+        <file>resources/markerLabel.png</file>
+    </qresource>
+</RCC>
